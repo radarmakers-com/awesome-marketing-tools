@@ -129,6 +129,7 @@ Monitor and analyze user behavior and marketing performance.
 - [Heap](https://heap.io/) - Digital insights platform.
 - [Matomo (formerly Piwik)](https://matomo.org/) - Open-source web analytics platform.
 - [Plausible](https://plausible.io/) - Simple and privacy-friendly analytics.
+- [UTM Link Builder](https://radarmakers.com/tools/utm-link-builder) - Free in-browser tool that adds consistent UTM tags to many pages and channels at once, with CSV import and export.
 
 ## Influencer Marketing
 
